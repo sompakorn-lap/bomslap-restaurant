@@ -1,9 +1,9 @@
 {
-    "name": "basic-setup-berm-stack",
+    "name": "bomslap-restaurant",
     "version": "1.0.0",
     "author": "BOM S. LAP",
     "license": "ISC",
-    "description": "Basic setup BERM stack (bun, elysia, react, mongodb) for deploy on render.com",
+    "description": "Simple restaurant website produce by bun, elysia, react, mongodb",
     "scripts": {
       "start": "cd server && bun start",
       "build:server": "cd server && bun i && bun run build",
